@@ -35,6 +35,7 @@ python app.py
 1. config.yaml after constant
 2. config_entity
 3. artifact_entity
-4. conponent
-5. pipeline
-6. app.py / demo.py
+4. update the configuration manager in config
+5. component
+6. pipeline
+7. app.py / demo.py
