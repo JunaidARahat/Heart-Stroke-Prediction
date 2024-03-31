@@ -4,6 +4,7 @@ Jinja2
 Werkzeug
 numpy
 pandas
+seaborn
 scikit-learn
 dnspython
 pymongo
