@@ -4,7 +4,7 @@ import os, sys
 import numpy as np
 import dill
 import pandas as pd
-from heart_stroke.constant import *
+from heart_stroke.constants import *
 from heart_stroke.exception import HeartStrokeException
 
 def write_yaml_file(file_path:str,data:dict=None):
